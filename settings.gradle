@@ -1,0 +1,2 @@
+rootProject.name='MakeitRain'
+include ':app'
